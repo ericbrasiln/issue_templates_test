@@ -1,9 +1,9 @@
 ---
 name: EN - Peer review process - Translation
 about: Begin the peer review process for a translation
-title: 'Review of translation of [TITLE]'
-labels: '2. Initial Edit', 'English', 'Translation'
-assignees: ''
+title: Review of translation of [TITLE]
+labels: 2. Initial Edit, English, Translation
+assignees: 
 
 ---
 

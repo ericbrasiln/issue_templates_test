@@ -1,9 +1,9 @@
 ---
 name: EN - Peer review process - Original lesson
 about: Begin the peer review process for an original lesson
-title: 'Review of lesson [TITLE]'
-labels: '2. Initial Edit', 'English'
-assignees: ''
+title: Review of lesson [TITLE]
+labels: 2. Initial Edit, English
+assignees:
 
 ---
 

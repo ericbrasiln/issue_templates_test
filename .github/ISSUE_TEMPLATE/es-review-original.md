@@ -1,9 +1,9 @@
 ---
 name: ES - Proceso de revisión por pares - Lección original
 about: Iniciar el proceso de revisión por pares para una lección original
-title: 'Revisión de la lección [TÍTULO DE LA LECCIÓN]'
-labels: '2. Initial edit', 'Spanish'
-assignees: ''
+title: Revisión de la lección [TÍTULO DE LA LECCIÓN]
+labels: 2. Initial edit, Spanish
+assignees: 
 
 ---
 

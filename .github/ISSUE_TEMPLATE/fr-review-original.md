@@ -1,9 +1,9 @@
 ---
 name: FR - Examen par les pairs - Original
 about: Gabarit de texte pour le ticket de relecture de leçon originale
-title: 'Proposition de leçon [TITRE DE LA LEÇON]'
-labels: '2. Initial Edit', 'French'
-assignees: ''
+title: Proposition de leçon [TITRE DE LA LEÇON]
+labels: 2. Initial Edit, French
+assignees:
 
 ---
 

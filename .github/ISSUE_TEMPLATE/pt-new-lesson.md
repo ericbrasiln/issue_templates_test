@@ -1,9 +1,9 @@
 ---
 name: Lição proposta
 about: Nova lição proposta para o Programming Historian em Português
-title: 'Proposta de lição original [TÍTULO]'
-labels: '1.Submission', 'Portuguese'
-assignees: ''
+title: Proposta de lição original [TÍTULO]
+labels: 1. Submission, Portuguese
+assignees: 
 
 ---
 

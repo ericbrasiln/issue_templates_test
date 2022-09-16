@@ -1,9 +1,9 @@
 ---
 name: ES - Propuesta de lección
 about: Propor una lección para el Programming Historian en español
-title: ''
-labels: '1. Submission', 'Spanish'
-assignees: ''
+title: Propuesta de lección [TÍTULO]
+labels: 1. Submission, Spanish
+assignees: 
 
 ---
 

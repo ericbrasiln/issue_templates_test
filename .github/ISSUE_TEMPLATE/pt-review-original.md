@@ -1,9 +1,9 @@
 ---
 name: PT - Processo de revisão por pares - Lição original
 about: Iniciar o processo de revisão por pares para uma lição proposta
-title: 'Revisão da lição original [TÍTULO DA LIÇÃO]'
-labels: '2. Initial Edit', 'Portuguese'
-assignees: ''
+title: Revisão da lição original [TÍTULO DA LIÇÃO]
+labels: 2. Initial Edit, Portuguese
+assignees:
 
 ---
 

@@ -1,5 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: PH Support
-    url: https://github.com/orgs/programminghistorian/teams/technical-team
-    about: Please contact our technical team.
+  - name: Programming Historian Wiki
+    url: https://github.com/programminghistorian/jekyll/wiki
+    about: Please check our Wiki for more information.

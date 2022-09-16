@@ -1,9 +1,9 @@
 ---
 name: ES - Proceso de revisión por pares - Traducción
 about: Iniciar el proceso de revisión por pares para una traducción
-title: 'Revisión de la traducción [TÍTULO DE LA LECCIÓN]'
-labels: '2. Initial edit', 'Spanish', 'Translation'
-assignees: ''
+title: Revisión de la traducción [TÍTULO DE LA LECCIÓN]
+labels: 2. Initial edit, Spanish, Translation
+assignees: 
 
 ---
 

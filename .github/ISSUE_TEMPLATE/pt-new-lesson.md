@@ -1,5 +1,5 @@
 ---
-name: Lição proposta
+name: PT - Lição proposta
 about: Nova lição proposta para o Programming Historian em Português
 title: Proposta de lição original [TÍTULO]
 labels: 1. Submission, Portuguese

@@ -1,5 +1,5 @@
 ---
-name: EN - New lesson proposal
+name: EN - Lesson proposal
 about: Suggest a new lesson for the Programming Historian
 title: New lesson proposal for the Programming Historian
 labels: 1. Submission, English

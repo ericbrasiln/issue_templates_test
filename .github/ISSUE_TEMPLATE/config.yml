@@ -3,3 +3,6 @@ contact_links:
   - name: Programming Historian Wiki
     url: https://github.com/programminghistorian/jekyll/wiki
     about: Please check our Wiki for more information.
+  - name: Programming Historian Team
+    url: https://programminghistorian.org/en/project-team
+    about: Please contact the Programming Historian team.

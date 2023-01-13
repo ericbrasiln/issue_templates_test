@@ -1,10 +1,10 @@
 ---
-name: Basic Template
-about: Simple issue template
-title: Name your issue
+name: Basic Template in English
+about: Simple PR template in English
+title: Name your PR
 ---
 
-## If you are opening this Issue to begin a task or set an objective, please try to use the SMART criteria:
+## If you are opening this _Pull Request_ to begin a task or set an objective, please try to use the SMART criteria:
 
 - [ ] **Specific** Which specific area of the project will this work improve? Which need will this meet?
 - [ ] **Measurable** How can progress be measured or quantified?
@@ -28,4 +28,4 @@ title: Name your issue
 
 **All contributors are reminded that participation in discussion on our community forums is dependant upon respect for one another. Please read our repository [Code of Conduct](https://github.com/programminghistorian/jekyll/blob/gh-pages/CODE_OF_CONDUCT.md).**
 
-*If you'd like, you can delete this template text before posting your issue.*
+*If you'd like, you can delete this template text before posting your _pull request_.*
